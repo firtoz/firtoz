@@ -2,7 +2,11 @@
 
 I build AI-powered creative tools, WebGL/XR experiences, games, and TypeScript systems that run at the edge.
 
-I'm a Product Engineer at [Gizmo](https://gizmo.ai), and I use [Lunix Tech](https://github.com/Lunix-AI) as a home for side projects, experiments, and open-source work.
+I'm a Product Engineer at [Gizmo](https://gizmo.ai), and I use [Lunix Tech](https://lunix.ai/) as a home for side projects, experiments, and open-source work.
+
+## Recent projects
+
+- [Ja-ti](https://ja-ti.com) — follower-change intelligence for X: snapshots, diffs, cadence rules, and cost-aware billing.
 
 ## What I'm Into
 
